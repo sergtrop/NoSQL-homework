@@ -10,5 +10,5 @@
 <h1> Правильный ответ </h1>
 Таблица выше иллюстрирует только поведение по умолчанию. 
 В реальной жизни поведение зависит от настроек (Consistency level и Replication factor для Cassandra, 
-Write option и Read preference для MongoDB, режим репликации для MSSQL server и тд), которые могут 
+Write option и Read preference для MongoDB, режим репликации для MSSQL Server и тд), которые могут 
 двигать баланс в сторону любого из полюсов. 
